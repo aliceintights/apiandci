@@ -1,9 +1,1 @@
-.baseUri("https://postman-echo.com")
-.body("some data")
-
-                .when()
-                .post("/post")
-
-                .then()
-                .statusCode(200)
-                .body()
+[!Java CI with Gradle] (https://github.com/aliceintights/apiandci/actions/workflows/gradle.yml/badge.svg)] (https://github.com/aliceintights/apiandci/actions/workflows/gradle.yml)
