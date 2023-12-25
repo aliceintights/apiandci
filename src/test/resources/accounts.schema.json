@@ -30,8 +30,9 @@
       },
       "currency": {
         "type": "string",
-        "maxProperties": 2
+        "currency_1": "RUB",
+        "currency_2": "USD"
+        }
       }
     }
   }
-}
